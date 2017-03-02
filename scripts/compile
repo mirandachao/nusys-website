@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "compiling scss..."
+sass $HOME/Documents/nusys_website/scss/style.scss > $HOME/Documents/nusys_website/scss/style.css
+echo "finished compile."
