@@ -54,7 +54,7 @@ $(document).ready(function() {
 
 	$("#team-down").click(function() {
 		$('html, body').animate({
-			scrollTop: $("#docs").offset().top
+			scrollTop: $("#support").offset().top
 		}, 800);
 	});
 
